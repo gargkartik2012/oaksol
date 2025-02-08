@@ -1,0 +1,30 @@
+{
+    "patient_name": "John Doe",
+    "dob": "1988-05-01",
+    "date": "2025-06-02",
+    "injection": "Yes",
+    "exercise_therapy": "No",
+    "difficulty_ratings": {
+      "bending": 3,
+      "putting_on_shoes": 1,
+      "sleeping": 2
+    },
+    "pain_symptoms": {
+      "pain": 2,
+      "numbness": 5,
+      "tingling": 6,
+      "burning": 7,
+      "tightness": 5
+    },
+    "medical_assistant_data": {
+      "blood_pressure": "120/80",
+      "hr": 80,
+      "weight": 67,
+      "height": "5'7\"",
+      "spo2": 98,
+      "temperature": "98.6",
+      "blood_glucose": 115,
+      "respirations": 16
+    }
+  }
+  
